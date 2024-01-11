@@ -1,0 +1,129 @@
+Info messageInfo messageInfo messageInfo messageInfo messageInfo messageInfo messageINFO: BackPack is present
+INFO: Add to cart present
+INFO: Item added to the cart successfully
+INFO: Item removed from the cart successfully!
+INFO: Sauce Labs Backpack
+INFO: Item exists on the page
+INFO: Item is visible
+[2024-01-10T12:09:27.100] [INFO] default - INFO: BackPack is present
+[2024-01-10T12:09:27.336] [INFO] default - INFO: Add to cart present
+[2024-01-10T12:09:27.774] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T12:09:30.001] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T12:09:30.444] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T12:09:30.973] [INFO] default - INFO: Item exists on the page
+[2024-01-10T12:09:30.996] [INFO] default - INFO: Item is visible
+[2024-01-10T12:16:39.857] [INFO] default - INFO: BackPack is present
+[2024-01-10T12:16:40.095] [INFO] default - INFO: Add to cart present
+[2024-01-10T12:16:40.531] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T12:16:42.778] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T12:16:43.218] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T12:16:43.749] [INFO] default - INFO: Item exists on the page
+[2024-01-10T12:16:43.775] [INFO] default - INFO: Item is visible
+[2024-01-10T12:51:07.133] [INFO] default - INFO: BackPack is present
+[2024-01-10T12:51:07.379] [INFO] default - INFO: Add to cart present
+[2024-01-10T12:51:07.802] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T12:51:10.028] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T12:51:10.472] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T12:51:11.032] [INFO] default - INFO: Item exists on the page
+[2024-01-10T12:51:11.059] [INFO] default - INFO: Item is visible
+[2024-01-10T13:11:57.069] [INFO] default - INFO: BackPack is present
+[2024-01-10T13:11:57.295] [INFO] default - INFO: Add to cart present
+[2024-01-10T13:11:57.713] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T13:11:59.936] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T13:12:13.716] [ERROR] default - ERROR: Error during performClickActions [object Object]
+[2024-01-10T13:12:16.080] [INFO] default - INFO: Item exists on the page
+[2024-01-10T13:12:16.110] [INFO] default - INFO: Item is visible
+[2024-01-10T13:16:23.396] [INFO] default - INFO: BackPack is present
+[2024-01-10T13:16:23.615] [INFO] default - INFO: Add to cart present
+[2024-01-10T13:16:24.055] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T13:16:26.297] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T13:16:40.309] [ERROR] default - ERROR: Error during performClickActions [object Object]
+[2024-01-10T13:16:42.518] [INFO] default - INFO: Item exists on the page
+[2024-01-10T13:16:42.545] [INFO] default - INFO: Item is visible
+[2024-01-10T13:25:14.717] [INFO] default - INFO: BackPack is present
+[2024-01-10T13:25:14.961] [INFO] default - INFO: Add to cart present
+[2024-01-10T13:25:15.381] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T13:25:17.604] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T13:25:32.067] [ERROR] default - ERROR: Error during performClickActions [object Object]
+[2024-01-10T13:25:35.180] [INFO] default - INFO: Item exists on the page
+[2024-01-10T13:25:35.208] [INFO] default - INFO: Item is visible
+[2024-01-10T13:42:06.602] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T13:42:06.704] [INFO] default - INFO: BackPack is present
+[2024-01-10T13:42:06.963] [INFO] default - INFO: Add to cart present
+[2024-01-10T13:42:07.370] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T13:42:09.606] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T13:42:24.174] [ERROR] default - ERROR: Error during performClickActions [object Object]
+[2024-01-10T13:42:27.317] [INFO] default - INFO: Item exists on the page
+[2024-01-10T13:42:27.346] [INFO] default - INFO: Item is visible
+[2024-01-10T14:40:32.126] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T14:40:32.232] [INFO] default - INFO: BackPack is present
+[2024-01-10T14:40:32.460] [INFO] default - INFO: Add to cart present
+[2024-01-10T14:40:32.869] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T14:40:35.098] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T14:40:57.176] [ERROR] default - ERROR: Error during performClickActions [object Object]
+[2024-01-10T14:41:00.253] [INFO] default - INFO: Item exists on the page
+[2024-01-10T14:41:00.282] [INFO] default - INFO: Item is visible
+[2024-01-10T14:43:43.887] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T14:43:43.956] [INFO] default - INFO: BackPack is present
+[2024-01-10T14:43:44.174] [INFO] default - INFO: Add to cart present
+[2024-01-10T14:43:44.575] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T14:43:46.803] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T14:44:06.106] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T14:44:06.135] [INFO] default - INFO: Item exists on the page
+[2024-01-10T14:44:06.163] [INFO] default - INFO: Item is visible
+[2024-01-10T14:44:20.573] [ERROR] default - ERROR: Error during performClickActions [object Object]
+[2024-01-10T15:37:07.067] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:37:07.229] [INFO] default - INFO: BackPack is present
+[2024-01-10T15:37:07.512] [INFO] default - INFO: Add to cart present
+[2024-01-10T15:37:08.049] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T15:37:10.354] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T15:37:21.816] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:37:22.359] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T15:37:34.431] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:37:34.473] [INFO] default - INFO: Item exists on the page
+[2024-01-10T15:37:34.511] [INFO] default - INFO: Item is visible
+[2024-01-10T15:37:46.029] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:40:29.629] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:40:29.787] [INFO] default - INFO: BackPack is present
+[2024-01-10T15:40:30.102] [INFO] default - INFO: Add to cart present
+[2024-01-10T15:40:30.632] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T15:40:32.910] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T15:40:44.375] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:40:44.919] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T15:40:57.243] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:40:57.277] [INFO] default - INFO: Item exists on the page
+[2024-01-10T15:40:57.321] [INFO] default - INFO: Item is visible
+[2024-01-10T15:41:08.762] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:42:24.610] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:42:24.750] [INFO] default - INFO: BackPack is present
+[2024-01-10T15:42:25.041] [INFO] default - INFO: Add to cart present
+[2024-01-10T15:42:25.564] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T15:42:27.855] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T15:42:39.486] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:42:40.059] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T15:42:52.134] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:42:52.167] [INFO] default - INFO: Item exists on the page
+[2024-01-10T15:42:52.218] [INFO] default - INFO: Item is visible
+[2024-01-10T15:43:03.676] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:44:13.918] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:44:14.061] [INFO] default - INFO: BackPack is present
+[2024-01-10T15:44:14.381] [INFO] default - INFO: Add to cart present
+[2024-01-10T15:44:14.909] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T15:44:17.194] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T15:44:28.659] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:44:29.189] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T15:44:41.428] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:44:41.464] [INFO] default - INFO: Item exists on the page
+[2024-01-10T15:44:41.516] [INFO] default - INFO: Item is visible
+[2024-01-10T15:44:53.146] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:47:55.787] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:47:55.887] [INFO] default - INFO: BackPack is present
+[2024-01-10T15:47:56.203] [INFO] default - INFO: Add to cart present
+[2024-01-10T15:47:56.703] [INFO] default - INFO: Item added to the cart successfully
+[2024-01-10T15:47:59.015] [INFO] default - INFO: Item removed from the cart successfully!
+[2024-01-10T15:48:10.481] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:48:10.987] [INFO] default - INFO: Sauce Labs Backpack
+[2024-01-10T15:48:23.088] [ERROR] default - ERROR: Error during login[object Object]
+[2024-01-10T15:48:23.122] [INFO] default - INFO: Item exists on the page
+[2024-01-10T15:48:23.163] [INFO] default - INFO: Item is visible
+[2024-01-10T15:48:34.592] [ERROR] default - ERROR: Error during login[object Object]
